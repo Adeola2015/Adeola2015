@@ -1,9 +1,8 @@
 Hi there 👋
  This is Adeola, 
-- 🔭 I’m currently working on becoming a Full Stack Web Developer
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Web Design
-- 🤔 I’m looking for help with learning
+- 🔭 A well crafted frontend dveloper
+- 🌱 Always at my best when it comes to HTML, CSS, JAVASCRIPT, and other framework
+- 👯 Ever ready for collaboration
 - 💬 Ask me about how my learning is going in two months 😆
 - 📫 You reach me through my email adebowaleadeola2015@gmail.com
 - 😄 Pronouns: She Her 😂
